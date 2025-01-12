@@ -1,4 +1,4 @@
 # asset_gif
 adding gif profile
 
-![WELCOME]
+![WELCOME](assets/giphy_L.webp)
