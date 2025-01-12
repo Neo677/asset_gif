@@ -47,6 +47,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Neo677/Neo677/output/snake.svg" alt="Snake animation" />
-
-###
