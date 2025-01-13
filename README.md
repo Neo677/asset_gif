@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Thomas Benelgorch and I'm a Student at 42 Nice</h2>
+<h2 align="left">Hi 👋! My name is Thomas and I'm a Student at 42 Nice</h2>
 
 ###
 
